@@ -1,0 +1,103 @@
+{
+    "1학년": {
+        "2023": [
+            {
+                "시행날짜": "",
+                "문제들": []
+            },
+            {
+                "시행날짜": "",
+                "문제들": []
+            }
+        ],
+        "2024": [
+            {
+                "시행날짜": "",
+                "문제들": []
+            },
+            {
+                "시행날짜": "",
+                "문제들": []
+            }
+        ]
+    },
+    "2학년": {
+        "2023": [
+            {
+                "시행날짜": "",
+                "문제들": []
+            },
+            {
+                "시행날짜": "",
+                "문제들": []
+            }
+        ],
+        "2024": [
+            {
+                "시행날짜": "",
+                "문제들": []
+            },
+            {
+                "시행날짜": "6월 학평(부산)",
+                "문제들": [
+                    {
+                        "문항 번호": "32",
+                        "문제 제목": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+                        "문제 내용": "If we’ve invested in something that hasn’t repaid us ― be it money in a failing venture, or time in an unhappy relationship ― we find it very difficult to walk away. This is the sunk cost fallacy. Our instinct is to continue investing money or time as we hope that our investment will prove to be worthwhile in the end. Giving up would mean acknowledging that we’ve wasted something we can’t get back, and that thought is so painful that we prefer to avoid it if we can. The problem, of course, is that if something really is a bad bet, then staying with it simply increases the amount we lose. Rather than walk away from a bad five­year relationship, for example, we turn it into a bad 10­year relationship; rather than accept that we’ve lost a thousand dollars, we lay down another thousand and lose that too. In the end, by delaying the pain of admitting our problem, we only add to it. Sometimes we just have to ________.",
+                        "문제 선지": {
+                            "1번": "reduce profit",
+                            "2번": "offer rewards",
+                            "3번": "cut our losses",
+                            "4번": "stick to the plan",
+                            "5번": "pay off our debt"
+                        },
+                        "문항 정답": "③",
+                        "오답률": "49.3%",
+                        "배점": "2점",
+                        "출제의도": "빈칸 추론하기",
+                        "해설": "우리에게 보답해 주지 않는 것에 우리가 투자해 왔다면 ― 실패한 사업에 투자한 돈이거나, 불행한 인간관계에 투자한 시간이던지 간에 ― 우리는 벗어나기가 매우 어렵다는 것을 안다. 이것은 매몰 비용 오류이다. 우리의 본능은 결국에는 우리의 투자가 가치 있는 것으로 입증될 것이라고 희망하면서 돈이나 시간에 투자를 계속 하는 것이다. 포기한다는 것은 우리가 돌이킬 수 없는 무언가를 낭비해왔다고 인정하는 것을 의미하고, 그런 생각은 너무 고통스러워서 우리가 할 수 있다면 그것을 피하기를 선호한다. 물론, 문제는 어떤 것이 정말 나쁜 투자라면, 그것을 계속하는 것은 우리가 잃는 총액을 증가시킬 뿐이라는 것이다. 예를 들어, 5년의 나쁜 관계에서 벗어나기보다는 우리는 그것을 10년의 나쁜 관계로 바꾸고; 천 달러를 잃었다는 사실을 받아들이기보다는, 또 다른 천 달러를 내놓고 그것도 역시 잃는다. 결국, 우리의 문제를 인정하는 고통을 미룸으로써 우리는 그것에 보탤 뿐이다. 때때로 우리는 손실을 끊어야만 한다."
+                    },
+                    {
+                        "문항 번호": "33",
+                        "문제 제목": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+                        "문제 내용": "On our little world, light travels, for all practical purposes, instantaneously. If a lightbulb is glowing, then of course it’s physically where we see it, shining away. We reach out our hand and touch it: It’s there all right, and unpleasantly hot. If the filament fails, then the light goes out. We don’t see it in the same place, glowing, illuminating the room years after the bulb breaks and it’s removed from its socket. The very notion seems nonsensical. But if we’re far enough away, an entire sun can go out and we’ll continue to see it shining brightly; we won’t learn of its death, it may be, for ages to come ― in fact, for how long it takes light, which travels fast but not infinitely fast, to cross the intervening vastness. The immense distances to the stars and the galaxies mean that we ________.\n* instantaneously: 순간적으로  ** intervene: 사이에 들다",
+                        "문제 선지": {
+                            "1번": "see everything in space in the past",
+                            "2번": "can predict when our sun will go out",
+                            "3번": "lack evidence of life on other planets",
+                            "4번": "rely on the sun as a measure of time",
+                            "5번": "can witness the death of a star as it dies"
+                        },
+                        "문항 정답": "①",
+                        "오답률": "67.3%",
+                        "배점": "3점",
+                        "출제의도": "빈칸 추론하기",
+                        "해설": "우리의 작은 세상에서, 실제로는 빛은 순간적으로 이동한다. 전구가 켜져 있다면, 당연히 그것은 우리가 보는 그 자리에 있다. 우리는 손을 뻗어 그것을 만진다: 그것은 바로 거기에 있고, 불쾌할 정도로 뜨겁다. 필라멘트가 나가면, 그때 빛은 꺼진다. 전구가 망가져서 소켓에서 제거된 몇 년 후, 그 자리에 빛을 내고 방을 밝히고 있는 그것을 우리는 보지 못한다. 바로 그 개념은 말도 안 되는 것처럼 보인다. 하지만 우리가 충분히 멀리 떨어져 있다면, 항성 전체는 꺼질 수 있지만 우리는 그것이 밝게 빛나는 것을 계속 볼 것이다; 우리는 아마도 오랜 세월동안 ― 사실, 빠르지만 무한히 빠르지는 않게, 이동하는 빛이 그 사이에 낀 광대함을 가로지르는데 걸리는 시간 동안 그것의 소멸을 알지 못할 것이다. 별과 은하까지의 엄청난 거리는 우리가 우주 공간의 모든 것을 과거의 모습으로 보고 있다는 것을 의미한다.\n[어구] illuminate 밝게 하다 vastness 광대함"
+                    }
+                ]
+            }
+        ]
+    },
+    "3학년": {
+        "2023": [
+            {
+                "시행날짜": "",
+                "문제들": []
+            },
+            {
+                "시행날짜": "",
+                "문제들": []
+            }
+        ],
+        "2024": [
+            {
+                "시행날짜": "",
+                "문제들": []
+            },
+            {
+                "시행날짜": "",
+                "문제들": []
+            }
+        ]
+    }
+}
