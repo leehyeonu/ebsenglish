@@ -41,6 +41,244 @@
                 "시행날짜": "6월 학평(부산)",
                 "문제들": [
                     {
+                        "문항 번호": "18",
+                        "문제 제목": "다음 글의 목적으로 가장 적절한 것은?",
+                        "문제 내용": "Dear Residents, My name is Kari Patterson, and I’m the manager of the River View Apartments. It’s time to take advantage of the sunny weather to make our community more beautiful. On Saturday, July 13 at 9 a.m., residents will meet in the north parking lot. We will divide into teams to plant flowers and small trees, pull weeds, and put colorful decorations on the lawn. Please join us for this year’s Gardening Day, and remember no special skills or tools are required. Last year, we had a great time working together, so come out and make this year’s event even better! Warm regards, Kari Patterson",
+                        "문제 선지": {
+                            "1번": "아파트 내 정원 조성에 대한 의견을 수렴하려고",
+                            "2번": "정원가꾸기 날 행사에 참여할 것을 독려하려고",
+                            "3번": "쓰레기를 지정된 장소에 버릴 것을 당부하려고",
+                            "4번": "지하 주차장 공사 일정에 대해 공지하려고",
+                            "5번": "정원박람회 개최 날짜 변경을 안내하려고"
+                        },
+                        "문항 정답": "②",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "글의 목적 고르기",
+                        "해설": "주민들께, 제 이름은 Kari Patterson이고, 저는 River View 아파트의 관리인입니다. 우리의 커뮤니티를 더욱 아름 답게 만들기 위해 화창한 날씨를 이용할 때입니다. 7월 13일 토요일 오전 9시에, 주민들은 북쪽 주차장에서 만 날 예정입니다. 우리는 팀을 나누어 꽃과 작은 나무를 심고, 잡초를 뽑고, 잔디밭에 다채로운 장식을 할 것입 니다. 올해 정원가꾸기 날에 우리와 함께 해 주시고, 특별한 기술이나 도구는 필요하지 않다는 것을 기억하 세요. 작년에, 우리는 함께 일하며 즐거운 시간을 보냈 으니, 오셔서 올해 행사도 더 멋지게 만들어 주세요!\n따뜻한 마음을 담아,\nKari Patterson"
+                    },
+                    {
+                        "문항 번호": "19",
+                        "문제 제목": "다음 글에 드러난 Emma의 심경 변화로 가장 적절한 것은?",
+                        "문제 내용": "It was the championship race. Emma was the final runner on her relay team. She anxiously waited in her spot for her teammate to pass her the baton. Emma wasn’t sure she could perform her role without making a mistake. Her hands shook as she thought, “What if I drop the baton?” She felt her heart rate increasing as her teammate approached. But as she started running, she received the baton smoothly. In the final 10 meters, she passed two other runners and crossed the finish line in first place! She raised her hands in the air, and a huge smile came across her face. As her teammates hugged her, she shouted, “We did it!” All of her hard training had been worth it.",
+                        "문제 선지": {
+                            "1번": "nervous → excited",
+                            "2번": "doubtful → regretful",
+                            "3번": "confident → upset",
+                            "4번": "hopeful → disappointed",
+                            "5번": "indifferent → amused"
+                        },
+                        "문항 정답": "①",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "심경 변화 고르기",
+                        "해설": "결승전 경주였다. Emma는 그녀의 계주 팀의 마지막 주자였다. 그녀는 그녀의 자리에서 팀 동료가 그녀에게 바통을 건네주기를 초조하게 기다렸다. Emma는 그녀가 실수를 하지 않고 자신의 역할을 수행할 수 있을지 확신하 지 못했다. “만약 내가 바통을 떨어뜨리면 어떡하지?” 라 고 생각하면서 그녀의 손이 떨렸다. 그녀는 그녀의 팀 동 료가 다가올수록 심박수가 증가하는 것을 느꼈다. 하지 만 그녀가 달리기 시작했을 때, 그녀는 순조롭게 바통 을 받았다. 마지막 10미터에서, 그녀는 두 명의 다른 주 자를 제치고 나서 1위로 결승선을 통과했다! 그녀는 두 손을 하늘로 치켜들고, 얼굴에 큰 미소를 지었다. 팀 동 료들이 그녀를 안아주자, 그녀는 “우리가 해냈어!”라고 소리쳤다. 그녀의 모든 힘든 훈련이 그럴만한 가치가 있 었다."
+                    },
+                    {
+                        "문항 번호": "20",
+                        "문제 제목": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+                        "문제 내용": "Most people resist the idea of a true self­estimate, probably because they fear it might mean downgrading some of their beliefs about who they are and what they’re capable of. As Goethe’s maxim goes, it is a great failing “to see yourself as more than you are.” How could you really be considered self­aware if you refuse to consider your weaknesses? Don’t fear self­assessment because you’re worried you might have to admit some things about yourself. The second half of Goethe’s maxim is important too. He states that it is equally damaging to “value yourself at less than your true worth.” We underestimate our capabilities just as much and just as dangerously as we overestimate other abilities. Cultivate the ability to judge yourself accurately and honestly. Look inward to discern what you’re capable of and what it will take to unlock that potential. \n* maxim: 격언",
+                        "문제 선지": {
+                            "1번": "주관적 기준으로 타인을 평가하는 것을 피해야 한다",
+                            "2번": "정확하고 정직하게 자신을 평가하는 능력을 길러야 한다.",
+                            "3번": "자신이 가진 잠재력을 믿고 다양한 분야에 도전해야 한다",
+                            "4번": "다른 사람과 비교하기보다는 자신의 성장에 주목해야 한다.",
+                            "5번": "문제를 해결하기 위해 근본 원인을 정확하게 분석해야 한다."
+                        },
+                        "문항 정답": "②",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "필자의 주장 고르기",
+                        "해설": "대부분의 사람들은 그것(진정한 자기 평가)이 그들이 누구인지, 무엇을 할 수 있는지에 대한 믿음을 낮추는 것을 의미할지도 모른다고 두려워하기 때문에, 진정한 자기 평가에 대한 생각을 거부한다. Goethe의 격언처 럼, “너 자신을 현재의 너의 모습 이상으로 보는 것”은 큰 실수이다. 네가 너의 단점을 생각해 보기를 거부한 다면 어떻게 너 자신을 인식하고 있다고 여겨질 수 있 을까? 네가 너 자신에 대해 몇 가지를 인정해야 할지도 모른다는 걱정 때문에 자기를 평가하는 것을 두려워하 지 마라. Goethe 격언의 후반부도 역시 중요하다. 그는 “너의 진정한 가치보다 너 자신을 낮게 평가하는 것”도 똑같이 해롭다고 말한다. 우리는 다른 능력들을 과대평가 하는 것만큼 많이 그리고 위험하게 우리의 능력을 과소 평가한다. 너 자신을 정확하게 그리고 정직하게 판단 하는 능력을 길러라. 네가 할 수 있는 것과 너의 잠재 력을 열기 위해 필요한 것을 파악하기 위해 내면을 들 여다 봐라."
+                    },
+                    {
+                        "문항 번호": "21",
+                        "문제 제목": "밑줄 친 “Slavery resides under marble and gold.”가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+                        "문제 내용": "Take a look at some of the most powerful, rich, and famous people in the world. Ignore the trappings of their success and what they’re able to buy. Look instead at what they’re forced to trade in return ― look at what success has cost them. Mostly? Freedom. Their work demands they wear a suit. Their success depends on attending certain parties, kissing up to people they don’t like. It will require ― inevitably ― realizing they are unable to say what they actually think. Worse, it demands that they become a different type of person or do bad things. Sure, it might pay well — but they haven’t truly examined the transaction. As Seneca put it, “Slavery resides under marble and gold.” Too many successful people are prisoners in jails of their own making. Is that what you want? Is that what you’re working hard toward? Let’s hope not. \n* trappings: 장식",
+                        "문제 선지": {
+                            "1번": "Your success requires you to act in ways you don’t want to",
+                            "2번": "Fame cannot be achieved without the help of others.",
+                            "3번": "Comparing yourself to others makes you miserable",
+                            "4번": "Hard labor guarantees glory and happiness in the future",
+                            "5번": "There exists freedom in the appearance of your success."
+                        },
+                        "문항 정답": "①",
+                        "오답률": "",
+                        "배점": "3점",
+                        "출제의도": "함축적 의미 파악하기",
+                        "해설": "세계에서 가장 힘있고, 부유하며, 유명한 사람들 중 몇 몇을 살펴봐라. 그들의 성공의 장식과 그들이 살 수 있는 것을 무시해라. 대신 그들이 맞바꿔야 하는 것을 봐라― 성공이 그들에게 치르게 한 것을 봐라. 대부분은? 자유 이다. 그들의 업무는 그들이 정장을 입는 것을 요구한다. 그들의 성공은 특정 파티에 참석하여, 그들이 좋아하지 않는 사람들에게 아첨하는 것에 달려 있다. 그것은 요구 할 것이다―필연적으로―그들이 실제로 생각하는 것을 말할 수 없다는 사실을 깨닫는 것을. 더 나쁜 것은, 그것 은 그들이 다른 유형의 사람이 되거나 부당한 일을 하도 록 요구한다는 것이다. 물론, 그것은 많은 이익이 될지도 모른다―그러나 그들은 그 거래를 제대로 고찰한 적이 없다. Seneca가 말했듯이, “대리석과 황금 아래에 노예 상태가 존재한다.” 너무 많은 성공한 사람들은 그들이 스 스로 만든 감옥의 죄수들이다. 그것이 당신이 원하는 것 인가? 그것이 당신이 목표로 하여 열심히 일하고 있는 것인가? 그렇지 않기를 바라자. \n [어구] inevitably 필연적으로 transaction 거래"
+                    },
+                    {
+                        "문항 번호": "22",
+                        "문제 제목": "다음 글의 요지로 가장 적절한 것은?",
+                        "문제 내용": "If a firm is going to be saved by the government, it might be easier to concentrate on lobbying the government for more money rather than taking the harder decision of restructuring the company to be able to be profitable and viable in the long term. This is an example of something known as moral hazard ― when government support alters the decisions firms take. For example, if governments rescue banks who get into difficulty, as they did during the credit crisis of 2007-08, this could encourage banks to take greater risks in the future because they know there is a possibility that governments will intervene if they lose money. Although the government rescue may be well intended, it can negatively affect the behavior of banks, encouraging risky and poor decision making. \n* viable: 성장할 수 있는",
+                        "문제 선지": {
+                            "1번": "기업에 대한 정부의 지원이 새로운 기술의 도입을 촉진한다.",
+                            "2번": "현명한 소비자들은 윤리적 기업의 제품을 선택하는 경향이 있다",
+                            "3번": "정부와 기업은 협력으로 사회적 문제의 해결책을 모색할 수 있다",
+                            "4번": "정부의 구제는 기업의 의사 결정에 부정적인 영향을 미칠 수 있다",
+                            "5번": "합리적 의사 결정은 다양한 대안에 대한 평가를 통해 이루어진다"
+                        },
+                        "문항 정답": "④",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "글의 요지 파악하기",
+                        "해설": "기업이 정부로부터 구제받으려면, 장기적으로 수익성이 나고 성장할 수 있도록 회사를 구조조정 하는 어려운 결 정을 내리기보다는 더 많은 돈을 받기 위해 정부에 로비 하는 것에 집중하는 것이 더 쉬울지도 모른다. 이것은 도 덕적 해이라고 알려진 것의 한 예이다―정부의 지원이 기업이 내리는 결정을 바꿀 때. 예를 들어, 2007-08년 신용 위기 때 그들이 그랬던 것처럼, 만약 정부가 어려움에 처한 은행을 구제한다면, 이것은 은행이 앞으로 더 큰 위 험을 감수하도록 조장하는데 그 이유는 그들이 손해를 보 는 경우 정부가 개입할 가능성이 있다는 것을 그들이 알 기 때문이다. 정부의 구제는 좋은 의도일지라도, 그것은 은행의 행동에 부정적으로 영향을 미쳐, 위험하고 형편없 는 의사 결정을 조장할 수 있다."
+                    },
+                    {
+                        "문항 번호": "23",
+                        "문제 제목": "다음 글의 주제로 가장 적절한 것은?",
+                        "문제 내용": "If there is little or no diversity of views, and all scientists see, think, and question the world in a similar way, then they will not, as a community, be as objective as they maintain they are, or at least aspire to be. The solution is that there should be far greater diversity in the practice of science: in gender, ethnicity, and social and cultural backgrounds. Science works because it is carried out by people who pursue their curiosity about the natural world and test their and each other’s ideas from as many varied perspectives and angles as possible. When science is done by a diverse group of people, and if consensus builds up about a particular area of scientific knowledge, then we can have more confidence in its objectivity and truth. \n * consensus: 일치",
+                        "문제 선지": {
+                            "1번": "value of acquiring scientific knowledge through trial and error",
+                            "2번": "necessity of various perspectives in practicing science",
+                            "3번": "benefits of building good relationships among scientists",
+                            "4번": "curiosity as a key factor in designing experiments",
+                            "5번": "importance of specialization in scientific research"
+                        },
+                        "문항 정답": "②",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "글의 주제 파악하기",
+                        "해설": "만약 견해의 다양성이 거의 없거나 전혀 없고, 모든 과학자들이 비슷한 방식으로 세상을 보고, 생각하고, 의 문을 제기한다면, 그러면 그들은, 하나의 공동체로서, 자신들이 주장하는 것만큼, 혹은 적어도 그렇게 되기를 열망하는 것만큼, 객관적이지 않을 것이다. 해결책은 과 학의 실행에 있어 훨씬 더 많은 다양성이 있어야 한다 는 것이다: 성별, 인종, 그리고 사회적 문화적 배경에 서. 과학은 그것이 자연 세계에 대한 호기심을 추구하 고 가능한 한 다양한 관점과 각도에서 그들의 그리고 서로의 아이디어를 검증하는 사람들에 의해 수행되기 때문에 작동한다. 과학이 다양한 집단의 사람들에 의해 행해질 때, 그리고 만약 과학 지식의 특정 영역에 대한 의견 일치가 이루어진다면, 그러면 우리는 그것의 객관 성과 진실성에 있어서 더 큰 자신감을 가질 수 있다. \n [어구] ethnicity 인종"
+                    },
+                    {
+                        "문항 번호": "24",
+                        "문제 제목": "다음 글의 제목으로 가장 적절한 것은?",
+                        "문제 내용": "We tend to break up time into units, such as weeks, months, and seasons; in a series of studies among farmers in India and students in North America, psychologists found that if a deadline is on the other side of a “break” ― such as in the New Year ― we’re more likely to see it as remote, and, as a result, be less ready to jump into action. What you need to do in that situation is find another way to think about the timeframe. For example, if it’s November and the deadline is in January, it’s better to tell yourself you have to get it done “this winter” rather than “next year.” The best approach is to view deadlines as a challenge that you have to meet within a period that’s imminent. That way the stress is more manageable, and you have a better chance of starting ― and therefore finishing ― in good time. \n * imminent: 임박한",
+                        "문제 선지": {
+                            "1번": "Delayed Deadlines: No Hurries, No Worries",
+                            "2번": "How Stress Affects Your Perception of Time",
+                            "3번": "Why Do We Manage Our Tasks Worse in Winter?",
+                            "4번": "Trick Your Mind to Get Your Work Done in Time",
+                            "5번": "The Sooner You Start, The More Errors You Make"
+                        },
+                        "문항 정답": "④",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "글의 제목 추론하기",
+                        "해설": "우리는 시간을 주, 월, 계절과 같은 단위로 나누는 경 향이 있다; 인도의 농부들과 북미의 학생들을 대상으로 한 일련의 연구에서, 심리학자들은 마감일이 “나뉨” ―새 해와 같이 ― 의 반대편에 있는 경우, 우리는 그것을 멀 리 있는 것으로 여기고, 그 결과, 실행에 옮길 준비를 덜 할 가능성이 더 많다는 사실을 발견했다. 그러한 상 황에서 당신이 해야 할 일은 그 시간 틀에 대해 생각하 는 또 다른 방식을 찾는 것이다. 예를 들어, 지금이 11 월이고 마감일이 1월이라면, 네가 “내년”보다는 “이번 겨 울”에 일을 끝내야 한다고 너 자신에게 말하는 것이 더 좋다. 최고의 접근법은 마감일을 임박한 기간 내에 맞춰 야 하는 도전으로 여기는 것이다. 그런 식으로 스트레스 는 더 잘 관리될 수 있고, 적시에 작업을 시작 ― 따라서 마무리 ― 할 수 있는 가능성이 높아진다."
+                    },
+                    {
+                        "문항 번호": "25",
+                        "문제 제목": "다음 도표의 내용과 일치하지 않는 것은?",
+                        "문제 내용": "The graph above shows the amount of CO₂ emissions per person across selected Asian countries in 2010 and 2020. ① All the countries except Uzbekistan had a greater amount of CO₂ emissions per person in 2020 than that in 2010. ② In 2010, the amount of CO₂ emissions per person of China was the largest among the five countries, followed by that of Mongolia. ③ However, in 2020, Mongolia surpassed China in terms of the amount of CO₂ emissions per person, with the amount of Mongolia more than twice that of China. ④ In 2010, Uzbekistan produced a larger amount of CO₂ emissions per person than Vietnam, while the opposite was true in 2020. ⑤ Among the five countries, India was the only one where the amount of CO₂ emissions per person was less than 2 tons in 2020.",
+                        "문제 선지": {
+                            "1번": "①",
+                            "2번": "②",
+                            "3번": "③",
+                            "4번": "④",
+                            "5번": "⑤"
+                        },
+                        "문항 정답": "③",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "내용 불일치 고르기(도표)",
+                        "해설": "위 그래프는 선택된 아시아 국가들의 2010년과 2020 년 1인당 CO₂ 배출량을 보여준다. 우즈베키스탄을 제외 한 모든 국가들은 2010년의 배출량보다 2020년의 1인당 CO₂ 배출량이 더 많았다. 2010년에는, 중국의 1인당 CO₂ 배출량이 5개국 중 가장 많았고, 몽골의 배출량이 그 뒤 를 이었다. 그러나, 2020년에는, 1인당 CO₂ 배출량에 있 어서 몽골이 중국을 능가했는데, 몽골의 배출량은 중국의 배출량보다 두 배 이상이었다. 2010년에는, 우즈베키스탄 이 베트남보다 더 많은 1인당 CO₂ 배출량을 만들어 냈지 만, 2020년에는 그 반대였다. 5개국 중, 인도는 2020년 에 1인당 CO₂ 배출량이 2톤 미만인 유일한 국가였다."
+                    },
+                    {
+                        "문항 번호": "26",
+                        "문제 제목": "Henry David Thoreau에 관한 다음 글의 내용과 일치하지 않는 것은?",
+                        "문제 내용": "Henry David Thoreau was born in Concord, Massachusetts in 1817. When he was 16, he entered Harvard College. After graduating, Thoreau worked as a schoolteacher but he quit after two weeks. In June of 1838 he set up a school with his brother John. However, he had hopes of becoming a nature poet. In 1845, he moved into a small self­built house near Walden Pond. At Walden, Thoreau did an incredible amount of reading. The journal he wrote there became the source of his most famous book, Walden. In his later life, Thoreau traveled to the Maine woods, to Cape Cod, and to Canada. At the age of 43, he ended his travels and returned to Concord. Although his works were not widely read during his lifetime, he never stopped writing, and his works fill 20 volumes.",
+                        "문제 선지": {
+                            "1번": "졸업한 후에 교사로 일했다.",
+                            "2번": "자연 시인이 되기를 희망했다.",
+                            "3번": "Walden에서 엄청난 양의 독서를 했다.",
+                            "4번": "43세에 여행을 마치고 Concord로 돌아왔다.",
+                            "5번": "그의 작품은 그의 일생 동안 널리 읽혔다."
+                        },
+                        "문항 정답": "⑤",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "내용 불일치 고르기",
+                        "해설": "Henry David Thoreau는 1817년 Massachusetts주 Concord에서 태어났다. 그가 16세 때, 그는 Harvard 대 학에 입학했다. 졸업 후, Thoreau는 학교 교사로 일했지 만 2주 후에 그만두었다. 1838년 6월에 그는 그의 형 제인 John과 함께 학교를 세웠다. 그러나, 그는 자연 시 인이 되기를 희망했다. 1845년, 그는 Walden 연못 근처 에 직접 지은 작은 집으로 이사했다. Walden에서, Thoreau는 엄청난 양의 독서를 했다. 그가 그곳에서 쓴 저널이 그의 가장 유명한 저서인 Walden의 원천이 되었다. 그의 인생 후반부에, Thoreau는 Maine 숲으로, Cape Cod로, 그리고 캐나다로 여행을 떠났다. 43세의 나 이에, 그는 그의 여행을 마치고 Concord로 돌아왔다. 비 록 그의 작품이 그의 일생 동안 널리 읽히지 않았지만, 그 는 집필을 멈추지 않았고, 그의 작품은 20권에 달한다."
+                    },
+                    {
+                        "문항 번호": "27",
+                        "문제 제목": "2024 Future Engineers Camp에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+                        "문제 내용": "2024 Future Engineers Camp Calling all young creators! Join us at Southside Maker Space to explore the wonders of engineering with exciting activities. Date: Saturday, July 20 & Sunday, July 21 Time: 10 a.m. - 4 p.m. Ages: 14 to 16 Participation Fee: $100 Day 1 - Robotics Workshop ∙ Learn basic coding skills. ∙ Work in teams to build mini­robots. Day 2 - Flying Challenge ∙ Make and test toy airplanes. ∙ Participate in an airplane flying race. Notes ∙ Lunch is included in the participation fee. ∙ All tools and materials for the projects are provided. For more information, please visit www.southsidemaker.com.",
+                        "문제 선지": {
+                            "1번": "오전 10시부터 오후 4시까지 진행된다.",
+                            "2번": "참가비는 100달러이다.",
+                            "3번": "기본적인 코딩 기술을 배운다.",
+                            "4번": "장난감 비행기를 만들고 테스트한다.",
+                            "5번": "점심 식사는 참가비에 포함되지 않는다."
+                        },
+                        "문항 정답": "⑤",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "내용 불일치 고르기(실용문)",
+                        "해설": ""
+                    },
+                    {
+                        "문항 번호": "28",
+                        "문제 제목": "Taste the City에 관한 다음 안내문의 내용과 일치하는 것은?",
+                        "문제 내용": "Taste the City Experience Jamestown’s diverse and delicious food culture all in one place. Enjoy tasty treats, and discover new restaurants! When & Where ∙ September 6th - 8th (10 a.m. - 9 p.m.) ∙ Grand Park Highlights ∙ 30 kinds of food samples provided by local restaurants ∙ Live music performances each evening ∙ Cooking classes with experienced chefs Entry Tickets ∙ Adult: $15 ∙ Child: $10 ※ No pre­reservations necessary, just show up and enjoy.",
+                        "문제 선지": {
+                            "1번": "9월 6일부터 일주일 동안 열린다.",
+                            "2번": "라이브 음악 공연이 하루 종일 진행된다.",
+                            "3번": "숙련된 요리사들과의 요리 수업이 있다.",
+                            "4번": "어른과 아이의 입장권 가격은 동일하다.",
+                            "5번": "사전 예약이 필요하다."
+                        },
+                        "문항 정답": "③",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "내용 일치 고르기(실용문)",
+                        "해설": ""
+                    },
+                    {
+                        "문항 번호": "29",
+                        "문제 제목": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+                        "문제 내용": "The built­in capacity for smiling is proven by the remarkable observation ① that babies who are congenitally both deaf and blind, who have never seen a human face, also start to smile at around 2 months. However, smiling in blind babies eventually ② disappears if nothing is done to reinforce it. Without the right feedback, smiling dies out. But here’s a fascinating fact: blind babies will continue to smile if they are cuddled, bounced, nudged, and tickled by an adult ― anything to let ③ them know that they are not alone and that someone cares about them. This social feedback encourages the baby to continue smiling. In this way, early experience operates with our biology ④ to establish social behaviors. In fact, you don’t need the cases of blind babies to make the point. Babies with sight smile more at you when you look at them or, better still, ⑤ smiling back at them. \n * congenitally: 선천적으로 ** cuddle: 껴안다 *** nudge: 팔꿈치로 쿡쿡 찌르다",
+                        "문제 선지": {
+                            "1번": "that",
+                            "2번": "disappears",
+                            "3번": "them",
+                            "4번": "to establish",
+                            "5번": "smiling"
+                        },
+                        "문항 정답": "⑤",
+                        "오답률": "",
+                        "배점": "3점",
+                        "출제의도": "문법성 판단하기",
+                        "해설": "미소 짓기에 대한 선천적인 능력은 선천적으로 청각 장애와 시각장애가 있고, 사람 얼굴을 한 번도 본 적이 없는 아기들도, 약 2개월 즈음에 미소를 짓기 시작한다 는 놀라운 관찰에 의해 증명된다. 그러나, 시각장애를 가진 아기의 미소 짓기는 그것을 강화하기 위해 아무것 도 행해지지 않으면 결국 사라진다. 적절한 피드백이 없으면, 미소 짓기는 사라진다. 하지만 여기에 흥미로운 사실이 있다: 만약 그들이 어른에 의해서 안기고, 흔들 리고, 슬쩍 찔리고, 간지럽혀지면 ― 그들이 혼자가 아니 며 누군가 그들에게 관심을 갖고 있다는 것을 알게 하 는 것 ― 시각장애를 가진 아기들은 계속 미소를 지을 것이다. 이러한 사회적 피드백은 그 아기가 계속 미 소를 지을 수 있도록 조장한다. 이런 방식으로, 초기 경험은 우리의 생리 작용과 함께 작용하여 사회적 행 동을 형성한다. 사실, 당신은 이를 설명하기 위해 시 각장애를 가진 아기의 사례들을 필요로 하지 않는다. 시력이 있는 아기들은 당신이 그들을 바라볼 때나, 더 나아가, 당신이 그들에게 미소를 지어줄 때, 당신 에게 더 많이 미소 짓는다. \n [해설] ⑤ smiling → smile"
+                    },
+                    {
+                        "문항 번호": "30",
+                        "문제 제목": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+                        "문제 내용": "Because people tend to adapt, interrupting positive things with negative ones can actually increase enjoyment. Take commercials. Most people hate them, so ① removing them should make shows or other entertainment more enjoyable. But the opposite is true. Shows are actually ② more enjoyable when they’re broken up by annoying commercials. Because these less enjoyable moments break up adaptation to the ③ positive experience of the show. Think about eating chocolate chips. The first chip is delicious: sweet, melt­in­your­mouth goodness. The second chip is also pretty good. But by the fourth, fifth, or tenth chip in a row, the goodness is no longer as pleasurable. We adapt. Interspersing positive experiences with less positive ones, however, can ④ accelerate adaptation. Eating a Brussels sprout between chocolate chips or viewing commercials between parts of TV shows disrupts the process. The less positive moment makes the ⑤ following positive one new again and thus more enjoyable. \n * intersperse: 흩뿌리다 ** Brussels sprout: 방울양배추",
+                        "문제 선지": {
+                            "1번": "removing",
+                            "2번": "more",
+                            "3번": "positive",
+                            "4번": "accelerate",
+                            "5번": "following"
+                        },
+                        "문항 정답": "④",
+                        "오답률": "",
+                        "배점": "3점",
+                        "출제의도": "문맥상 적절한 어휘 파악하기",
+                        "해설": ""
+                    },
+                    {
+                        "문항 번호": "31",
+                        "문제 제목": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+                        "문제 내용": "We collect stamps, coins, vintage cars even when they serve no practical purpose. The post office doesn’t accept the old stamps, the banks don’t take old coins, and the vintage cars are no longer allowed on the road. These are all side issues; the attraction is that they are in ___________. In one study, students were asked to arrange ten posters in order of attractiveness ― with the agreement that afterward they could keep one poster as a reward for their participation. Five minutes later, they were told that the poster with the third highest rating was no longer available. Then they were asked to judge all ten from scratch. The poster that was no longer available was suddenly classified as the most beautiful. In psychology, this phenomenon is called reactance: when we are deprived of an option, we suddenly deem it more attractive.",
+                        "문제 선지": {
+                            "1번": "short supply",
+                            "2번": "good shape",
+                            "3번": "current use",
+                            "4번": "great excess",
+                            "5번": "constant production"
+                        },
+                        "문항 정답": "①",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "빈칸 추론하기",
+                        "해설": "우리는 그것들이 실용적인 목적을 수행하지 않더라도 우표, 동전, 빈티지 자동차들을 수집한다. 우체국은 오 래된 우표를 받지 않고, 은행은 오래된 동전을 받지 않 으며, 그리고 빈티지 자동차는 더 이상 도로에서 허용 되지 않는다. 이런 것들은 모두 부수적인 문제이다; 매 력은 그들이 부족한 공급에 있다는 것이다. 한 연구에 서, 학생들은 포스터 10장을 매력도의 순서대로 배열하 도록 요청받았다 ― 나중에 그들의 참여에 대한 보상으 로 포스터 1장을 간직할 수 있다는 합의와 함께. 5분 후, 그들은 세 번째 높은 평가의 포스터가 더 이상 이 용 가능하지 않다는 것을 들었다. 그런 다음 그들은 10 개의 포스터를 모두 처음부터 평가하라고 요청을 받았 다. 더 이상 이용할 수 없는 포스터가 갑자기 가장 아 름다운 것으로 분류되었다. 심리학에서, 이러한 현상은 리액턴스라고 불린다: 우리가 선택지를 빼앗겼을 때, 우 리는 그것을 갑자기 더 매력적으로 여긴다. \n [어구] from scratch 처음부터"
+                    },
+                    {
                         "문항 번호": "32",
                         "문제 제목": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
                         "문제 내용": "If we’ve invested in something that hasn’t repaid us ― be it money in a failing venture, or time in an unhappy relationship ― we find it very difficult to walk away. This is the sunk cost fallacy. Our instinct is to continue investing money or time as we hope that our investment will prove to be worthwhile in the end. Giving up would mean acknowledging that we’ve wasted something we can’t get back, and that thought is so painful that we prefer to avoid it if we can. The problem, of course, is that if something really is a bad bet, then staying with it simply increases the amount we lose. Rather than walk away from a bad five­year relationship, for example, we turn it into a bad 10­year relationship; rather than accept that we’ve lost a thousand dollars, we lay down another thousand and lose that too. In the end, by delaying the pain of admitting our problem, we only add to it. Sometimes we just have to ________.",
@@ -73,7 +311,219 @@
                         "배점": "3점",
                         "출제의도": "빈칸 추론하기",
                         "해설": "우리의 작은 세상에서, 실제로는 빛은 순간적으로 이동한다. 전구가 켜져 있다면, 당연히 그것은 우리가 보는 그 자리에 있다. 우리는 손을 뻗어 그것을 만진다: 그것은 바로 거기에 있고, 불쾌할 정도로 뜨겁다. 필라멘트가 나가면, 그때 빛은 꺼진다. 전구가 망가져서 소켓에서 제거된 몇 년 후, 그 자리에 빛을 내고 방을 밝히고 있는 그것을 우리는 보지 못한다. 바로 그 개념은 말도 안 되는 것처럼 보인다. 하지만 우리가 충분히 멀리 떨어져 있다면, 항성 전체는 꺼질 수 있지만 우리는 그것이 밝게 빛나는 것을 계속 볼 것이다; 우리는 아마도 오랜 세월동안 ― 사실, 빠르지만 무한히 빠르지는 않게, 이동하는 빛이 그 사이에 낀 광대함을 가로지르는데 걸리는 시간 동안 그것의 소멸을 알지 못할 것이다. 별과 은하까지의 엄청난 거리는 우리가 우주 공간의 모든 것을 과거의 모습으로 보고 있다는 것을 의미한다.\n[어구] illuminate 밝게 하다 vastness 광대함"
+                    },
+                    {
+                        "문항 번호": "34",
+                        "문제 제목": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+                        "문제 내용": "Financial markets do more than take capital from the rich and lend it to everyone else. They enable each of us to smooth consumption over our lifetimes, which is a fancy way of saying that we don’t have to spend income at the same time we earn it. Shakespeare may have admonished us to be neither borrowers nor lenders; the fact is that most of us will be both at some point. If we lived in an agrarian society, we would have to eat our crops reasonably soon after the harvest or find some way to store them. Financial markets are a more sophisticated way of managing the harvest. We can spend income now that we have not yet earned ―as by borrowing for college or a home ―or we can earn income now and spend it later, as by saving for retirement. The important point is that ______________________________, allowing us much more flexibility in life.\n* admonish: 권고하다 ** agrarian: 농업(농민)의",
+                        "문제 선지": {
+                            "1번": "we can ignore the complexity of financial markets",
+                            "2번": "earning income has been divorced from spending it",
+                            "3번": "financial markets can regulate our impulses",
+                            "4번": "we sell our crops as soon as we harvest them",
+                            "5번": "managing working hours has become easier than ever"
+                        },
+                        "문항 정답": "②",
+                        "오답률": "",
+                        "배점": "3점",
+                        "출제의도": "빈칸 추론하기",
+                        "해설": "금융 시장은 부자들로부터 자본을 받아 다른 모든 사 람들에게 그것을 빌려주는 것 이상을 한다. 그것들은 우리 각자가 평생에 걸쳐 소비를 원활하게 하도록 해주 며, 그리고 이는 우리가 그것(소득)을 얻는 동시에 소 득을 소비할 필요가 없다는 것을 말하는 멋진 방식이 다. 셰익스피어는 우리가 빌리는 사람도 빌려주는 사람 도 되지 말라고 충고했을지도 모른다; 사실 우리 대부 분은 어떤 때에는 둘 다 될 것이다. 만약 우리가 농경 사회에 산다면, 우리는 우리의 농작물을 수확 직후에 합리적으로 먹거나 또는 그것들을 저장할 어떤 방법을 찾아야 할 것이다. 금융 시장은 수확을 관리하는 더 정 교한 방법이다. 우리는 우리가 아직 벌지 않은 소득을 지금 소비할 수도 있고 ― 대학이나 주택을 위해 빌리는 것처럼 ― 혹은 우리는 은퇴를 위해 저축하는 것처럼, 지금 소득을 벌어서 나중에 그것을 소비할 수도 있다. 중요한 점은 소득을 버는 것이 그것을 소비하는 것과 분리되어 있다는 것이고, 이는 우리에게 삶에서 훨씬 더 많은 유연성을 허용해준다."
+                    },
+                    {
+                        "문항 번호": "35",
+                        "문제 제목": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+                        "문제 내용": "As the old joke goes: “Software, free. User manual, $10,000.” But it’s no joke. A couple of high­profile companies make their living selling instruction and paid support for free software. The copy of code, being mere bits, is free. The lines of free code become valuable to you only through support and guidance. ① A lot of medical and genetic information will go this route in the coming decades. ② Right now getting a full copy of all your DNA is very expensive ($10,000), but soon it won’t be. ③ The public exposure of people’s personal genetic information will undoubtedly cause serious legal and ethical problems. ④ The price is dropping so fast, it will be $100 soon, and then the next year insurance companies will offer to sequence you for free. ⑤ When a copy of your sequence costs nothing, the interpretation of what it means, what you can do about it, and how to use it ― the manual for your genes ― will be expensive.",
+                        "문제 선지": {
+                            "1번": "①",
+                            "2번": "②",
+                            "3번": "③",
+                            "4번": "④",
+                            "5번": "⑤"
+                        },
+                        "문항 정답": "③",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "무관한 문장 파악하기",
+                        "해설": "다음과 같은 옛 농담처럼: “소프트웨어, 무료. 사용자 매뉴얼, 10,000달러.” 하지만 그것은 농담이 아니다. 세 간의 이목을 끄는 몇몇 기업들은 무료 소프트웨어에 대 한 지침과 유료 지원을 판매하면서 돈을 번다. 단지 몇 비트일 뿐인 코드 사본은 무료이다. 무료 코드의 배열 은 지원과 안내를 통해서만 당신에게 가치 있게 된다. 다가올 수십 년 안에 많은 의료 및 유전 정보가 이 경 로를 따르게 될 것이다. 지금은 당신의 모든 DNA의 전 체 사본을 얻는 것이 매우 비싸지만 (10,000달러), 곧 그렇지 않게 될 것이다. (사람들의 개인 유전자 정보의 공개는 틀림없이 심각한 법적이고 윤리적인 문제를 야 기할 것이다.) 가격이 너무 빨리 떨어지고 있어, 곧 100달러가 될 것이고, 그 다음 해에는 보험 회사가 무 료로 당신의 유전자 배열 순서를 밝혀줄 것을 제안할 것이다. 당신의 배열의 사본에 비용이 들지 않을 때, 그 것이 의미하는 것, 당신이 그것에 관해 할 수 있는 것, 그리고 그것을 사용하는 방법에 관한 설명 ― 당신의 유 전자 매뉴얼 ― 은 비싸질 것이다."
+                    },
+                    {
+                        "문항 번호": "36",
+                        "문제 제목": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+                        "문제 내용": "Brains are expensive in terms of energy. Twenty percent of the calories we consume are used to power the brain. (A) By directing your attention, they perform tricks with their hands in full view. Their actions should give away the game, but they can rest assured that your brain processes only small bits of the visual scene. (B) So brains try to operate in the most energy­efficient way possible, and that means processing only the minimum amount of information from our senses that we need to navigate the world. Neuroscientists weren’t the first to discover that fixing your gaze on something is no guarantee of seeing it. Magicians figured this out long ago. (C) This all helps to explain the prevalence of traffic accidents in which drivers hit pedestrians in plain view, or collide with cars directly in front of them. In many of these cases, the eyes are pointed in the right direction, but the brain isn’t seeing what’s really out there. \n* prevalence: 널리 행하여짐 ** pedestrian: 보행자 *** collide: 충돌하다",
+                        "문제 선지": {
+                            "1번": "(A) - (C) - (B)",
+                            "2번": "(B) - (A) - (C)",
+                            "3번": "(B) - (C) - (A)",
+                            "4번": "(C) - (A) - (B)",
+                            "5번": "(C) - (B) - (A)"
+                        },
+                        "문항 정답": "②",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "글의 순서 파악하기",
+                        "해설": "에너지의 측면에서 뇌는 비용이 많이 든다. 우리가 소 비하는 칼로리의 20%는 뇌에 동력을 공급하는 데 사용 된다. (B) 따라서 뇌는 가능한 한 가장 에너지 효율적인 방식으로 작동하려고 애쓰며, 그것은 우리가 세상을 항해 하는 데 필요로 하는 최소한의 양의 정보만을 우리 감각 으로부터 처리하는 것을 의미한다. 신경과학자들은 무언 가에 당신의 시선을 고정하는 것이 그것을 본다는 보장이 없다는 사실을 발견한 최초가 아니었다. 마술사들은 오래 전에 이것을 알아냈다. (A) 당신의 주의를 끌어서, 그들 은 다 보이는 데서 손으로 속임수를 행한다. 그들의 행동 은 그 속임수를 드러내겠지만, 그들은 당신의 뇌가 시각 적 장면의 오직 작은 부분들만을 처리한다는 것을 확신한 채로 있을 수 있다. (C) 이 모든 것은 운전자가 명백한 시야에 있는 보행자들을 치거나, 바로 앞에 있는 차량들 과 충돌하는 교통사고의 빈번함을 설명하는 데 도움이 된 다. 많은 이러한 경우에서, 눈은 올바른 방향을 향하고 있지만, 뇌는 실제로 거기에 있는 것을 보고 있지 않다."
+                    },
+                    {
+                        "문항 번호": "37",
+                        "문제 제목": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+                        "문제 내용": "Buying a television is current consumption. It makes us happy today but does nothing to make us richer tomorrow. Yes, money spent on a television keeps workers employed at the television factory. (A) The crucial difference between these scenarios is that a college education makes a young person more productive for the rest of his or her life; a sports car does not. Thus, college tuition is an investment; buying a sports car is consumption. (B) But if the same money were invested, it would create jobs somewhere else, say for scientists in a laboratory or workers on a construction site, while also making us richer in the long run. (C) Think about college as an example. Sending students to college creates jobs for professors. Using the same money to buy fancy sports cars for high school graduates would create jobs for auto workers",
+                        "문제 선지": {
+                            "1번": "(A) - (C) - (B)",
+                            "2번": "(B) - (A) - (C)",
+                            "3번": "(B) - (C) - (A)",
+                            "4번": "(C) - (A) - (B)",
+                            "5번": "(C) - (B) - (A)"
+                        },
+                        "문항 정답": "③",
+                        "오답률": "",
+                        "배점": "3점",
+                        "출제의도": "글의 순서 파악하기",
+                        "해설": "텔레비전을 사는 것은 현재의 소비이다. 그것은 오늘 우리를 행복하게 하지만 내일 우리를 더 부유하게 만드 는 데는 아무것도 하지 않는다. 그렇다, 텔레비전에 소 비되는 돈은 노동자들이 텔레비전 공장에 계속 고용되게 한다. (B) 하지만 같은 돈이 투자된다면, 그것은 말하자 면 실험실의 과학자들이나 건설 현장의 노동자들을 위 한, 어딘가 다른 곳의 일자리를 창출하면서, 또한 장기 적으로 우리를 더 부유하게 만들 것이다. (C) 대학을 예 로써 생각해 보자. 학생들을 대학에 보내는 것은 교수들 을 위한 일자리를 창출한다. 같은 돈을 고등학교 졸업생 에게 멋진 스포츠카를 사주는 데 쓰는 것은 자동차 노동 자를 위한 일자리를 창출할 것이다. (A) 이러한 시나리 오들의 중대한 차이점은 대학 교육은 젊은이들이 그 또 는 그녀의 남은 삶 동안 더 생산적이게 만들지만; 스포 츠카는 그렇지 않다는 것이다. 따라서, 대학 등록금은 투자이다; 스포츠카를 구입하는 것은 소비이다."
+                    },
+                    {
+                        "문항 번호": "38",
+                        "문제 제목": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+                        "문제 내용": "But the Net doesn’t just connect us with businesses; it connects us with one another. The Net differs from most of the mass media it replaces in an obvious and very important way: it’s bidirectional. ( ① ) We can send messages through the network as well as receive them, which has made the system all the more useful. ( ② ) The ability to exchange information online, to upload as well as download, has turned the Net into a thoroughfare for business and commerce. ( ③ ) With a few clicks, people can search virtual catalogues, place orders, track shipments, and update information in corporate databases. ( ④ ) It’s a personal broadcasting medium as well as a commercial one. ( ⑤ ) Millions of people use it to distribute their own digital creations, in the form of blogs, videos, photos, songs, and podcasts, as well as to critique, edit, or otherwise modify the creations of others. \n* bidirectional: 두 방향으로 작용하는 ** thoroughfare: 통로",
+                        "문제 선지": {
+                            "1번": "①",
+                            "2번": "②",
+                            "3번": "③",
+                            "4번": "④",
+                            "5번": "⑤"
+                        },
+                        "문항 정답": "④",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "문장 삽입하기",
+                        "해설": "인터넷은 그것이 대체하는 대부분의 대중 매체와 분 명하고도 매우 중요한 방식으로 다르다: 그것은 두 방 향으로 작용한다. 우리는 네트워크를 통해 메시지들을 받을 수 있을 뿐만 아니라 그것들을 보낼 수도 있는데, 이것은 그 시스템을 훨씬 더 유용하게 만들었다. 온라 인에서 정보를 교환하고, 다운로드할 뿐만 아니라 업로 드하는 능력은, 인터넷을 비즈니스와 상거래를 위한 통 로로 만들었다. 몇 번의 클릭으로, 사람들은 가상 카탈 로그를 검색하고, 주문을 하고, 배송을 추적하고, 그리 고 기업의 데이터베이스에 정보를 업데이트할 수 있다. 하지만 인터넷은 단지 우리를 기업과 연결하는 것만은 아니다; 그것은 우리를 서로서로 연결한다. 그것은 상업 용 매체일 뿐만 아니라 개인 방송 매체이다. 수백만 명 의 사람들이 다른 사람들의 창작물을 비평하고, 편집하 고, 또는 그렇지 않으면 수정하기 위해서 뿐만 아니라, 블로그, 동영상, 사진, 노래, 그리고 팟캐스트의 형태로 자신의 디지털 창작물을 배포하기 위해서 그것을 사용 한다."
+                    },
+                    {
+                        "문항 번호": "39",
+                        "문제 제목": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+                        "문제 내용": "Instead, automation created hundreds of millions of jobs in entirely new fields. Imagine that seven out of ten working Americans got fired tomorrow. What would they all do? It’s hard to believe you’d have an economy at all if you gave pink slips to more than half the labor force. But that is what the industrial revolution did to the workforce of the early 19th century. Two hundred years ago, 70 percent of American workers lived on the farm. ( ① ) Today automation has eliminated all but 1 percent of their jobs, replacing them with machines. ( ② ) But the displaced workers did not sit idle. ( ③ ) Those who once farmed were now manning the factories that manufactured farm equipment, cars, and other industrial products. ( ④ ) Since then, wave upon wave of new occupations have arrived — appliance repair person, food chemist, photographer, web designer — each building on previous automation. ( ⑤ ) Today, the vast majority of us are doing jobs that no farmer from the 1800s could have imagined. \n* pink slip: 해고 통지서",
+                        "문제 선지": {
+                            "1번": "①",
+                            "2번": "②",
+                            "3번": "③",
+                            "4번": "④",
+                            "5번": "⑤"
+                        },
+                        "문항 정답": "③",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "문장 삽입하기",
+                        "해설": "미국인 직장인 10명 중 7명이 내일 해고된다고 상상 해 보라. 그들은 모두 무엇을 할까? 노동력의 절반 이 상에게 해고 통지서를 보낸다면 경제가 유지될 것이라 고 믿기 어려울 것이다. 하지만 그것은 19세기 초 노동 력에 산업혁명이 했던 것이다. 200년 전, 미국 노동자 의 70%가 농장에서 살았다. 오늘날 자동화는 1%를 제 외한 모든 일자리를 제거하였고, 그것들을 기계로 대체 하였다. 하지만 일자리를 잃은 노동자들은 한가롭게 앉 아 있지 않았다. 그 대신, 자동화는 완전히 새로운 분야 에서 수억 개의 일자리를 창출했다. 한때 농사를 짓던 사람들은 이제 농기구, 자동차, 그리고 기타 산업 제품 을 제조하는 공장에서 일하고 있다. 그 이후로, 가전제 품 수리공, 식품 화학자, 사진작가, 웹 디자이너 등 이 전의 자동화를 기반으로 한 새로운 직업이 계속해서 등 장했다. 오늘날, 우리 중 대다수는 1800년대의 농부들 은 상상도 할 수 없었던 일을 하고 있다."
+                    },
+                    {
+                        "문항 번호": "40",
+                        "문제 제목": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?",
+                        "문제 내용": "Many things spark envy : ownership, status, health, youth, talent, popularity, beauty. It is often confused with jealousy because the physical reactions are identical. The difference: the subject of envy is a thing (status, money, health etc.). The subject of jealousy is the behaviour of a third person. Envy needs two people. Jealousy, on the other hand, requires three: Peter is jealous of Sam because the beautiful girl next door rings him instead. Paradoxically, with envy we direct resentments toward those who are most similar to us in age, career and residence. We don’t envy businesspeople from the century before last. We don’t envy millionaires on the other side of the globe. As a writer, I don’t envy musicians, managers or dentists, but other writers. As a CEO you envy other, bigger CEOs. As a supermodel you envy more successful supermodels. Aristotle knew this: ‘Potters envy potters.’  ---> Jealousy involves three parties, focusing on the (A) of a third person, whereas envy involves two individuals whose personal circumstances are most (B) , with one person resenting the other.",
+                        "문제 선지": {
+                            "1번": "actions …… different",
+                            "2번": "possessions …… unique",
+                            "3번": "goals …… ordinary",
+                            "4번": "possessions …… favorable",
+                            "5번": "actions …… alike"
+                        },
+                        "문항 정답": "⑤",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "문단 요약하기",
+                        "해설": "많은 것들은 부러움을 불러일으킨다: 소유권, 지위, 건강, 젊음, 재능, 인기, 아름다움. 이것은 신체적 반응 이 동일하기 때문에 종종 질투와 혼동된다. 차이점: 부 러움의 대상은 사물(지위, 돈, 건강 등)이다. 질투의 대 상은 제3자의 행동이다. 부러움은 두 사람을 필요로 한 다. 반면, 질투는 세 사람을 요구한다: Peter는 옆집의 예쁜 여자가 자기가 아니라 Sam에게 전화를 걸기 때문 에 그를 질투한다. 역설적이게도, 부러움을 가질 때 우 리는 나이, 경력, 거주지에 있어서 우리와 가장 비슷한 사람들에게 불쾌감을 향하게 한다. 우리는 지지난 세기 의 사업가들을 부러워하지 않는다. 우리는 지구 반대편 의 백만장자를 부러워하지 않는다. 작가로서, 나는 음악 가, 매니저 또는 치과 의사가 부럽지 않지만, 다른 작가 들을 부러워한다. CEO로서 당신은 다른, 더 큰 CEO들 을 부러워한다. 슈퍼 모델로서 당신은 더 성공한 슈퍼 모델들을 부러워한다. 아리스토텔레스는 이를 알고 있 었다: ‘도공은 도공을 부러워한다.’    ---> 질투는 세 당사자를 포함하며, 제3자의 행동에 초점을 맞추는 반면, 부러움은 개인적 상황이 가장 비슷한 두 사람을 포함하고, 한 사람이 다른 사람을 불쾌하게 여 기는 상태이다."
+                    },
+                    {
+                        "문항 번호": "41",
+                        "문제 제목": "윗글의 제목으로 가장 적절한 것은?",
+                        "문제 내용": "We have biases that support our biases! If we’re partial to one option ―perhaps because it’s more memorable, or framed to minimize loss, or seemingly consistent with a promising pattern ―we tend to search for information that will (a) justify choosing that option. On the one hand, it’s sensible to make choices that we can defend with data and a list of reasons. On the other hand, if we’re not careful, we’re (b) likely to conduct an imbalanced analysis, falling prey to a cluster of errors collectively known as “confirmation biases.” For example, nearly all companies include classic “tell me about yourself” job interviews as part of the hiring process, and many rely on these interviews alone to evaluate applicants. But it turns out that traditional interviews are actually one of the (c) least useful tools for predicting an employee’s future success. This is because interviewers often subconsciously make up their minds about interviewees based on their first few moments of interaction and spend the rest of the interview cherry­picking evidence and phrasing their questions to (d) confirm that initial impression: “I see here you left a good position at your previous job. You must be pretty ambitious, right?” versus “You must not have been very committed, huh?” This means that interviewers can be prone to (e) noticing significant information that would clearly indicate whether this candidate was actually the best person to hire. More structured approaches, like obtaining samples of a candidate’s work or asking how he would respond to difficult hypothetical situations, are dramatically better at assessing future success, with a nearly threefold advantage over traditional interviews.",
+                        "문제 선지": {
+                            "1번": "Bias Trap: How Our Preconceptions Mislead Us",
+                            "2번": "Utilize the Power of Similar Personality Types!",
+                            "3번": "More Information Adds Up to Worse Choices",
+                            "4번": "Why Are You Persuaded by Others’ Perspectives?",
+                            "5번": "Interviews: The Fairest Judgment for All Applicants"
+                        },
+                        "문항 정답": "①",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "1지문 2문항(문맥상 적절한 어휘 파악하기)",
+                        "해설": "우리는 우리의 편견을 뒷받침하는 편견을 가진다! 만약 우리가 한 가지 옵션에 편향된다면 ―그것이 아마도 더 잘 기억할만 하거나, 손실을 최소화하기 위해 짜맞춰 졌거나, 혹은 유망한 패턴과 일치하는 것처럼 보이기 때문에 ― 우리는 그 옵션을 선택한 것을 정당화할 정보를 찾는 경향이 있다. 한편으로는, 데이터와 이유들의 목록으로 방어할 수 있는 선택을 하는 것이 현명하다. 반면에, 만약 우리가 주의를 기울이지 않으면, 우리는 불균형한 분석을 수행할 가능성이 있어서, 총체적으로 “확증편향”으로 알려져 있는 오류 덩어리의 희생양이 된다. 예를 들어, 거의 모든 기업이 채용 과정의 일부로 전통적인 “자기소개” 취업 면접을 실시하며, 많은 기업이 지원자를 평가하기 위해서 이러한 면접에만 의존한다. 하지만 전통적인 면접은 실제로 직원의 미래 성공을 예측하는 데 가장 유용하지 않은 도구 중 하나라는 것으로판명된다. 이것은 면접관들이 종종 잠재의식적으로 처음 몇 순간의 상호작용을 바탕으로 면접 대상자에 대한 결정을 내리고, 그 첫인상을 확인하기 위해 증거를 고르고 질문을 만드는 데 면접의 나머지 시간을 보내기 때문이 다: “당신은 이전 직장에서 좋은 직책을 두고 나오신 게 보이네요. 틀림없이 야망이 꽤 크시겠어요, 그렇죠?” 대 “당신은 그다지 헌신적이지 않았음에 틀림없네요, 그렇 죠?” 이것은 면접관이 이 지원자가 실제로 채용하기에 가장 좋은 사람인지 여부를 명확하게 보여줄 수 있는 중요한 정보를 알아차리기(→간과하기) 쉽다는 것을 의미한다. 지원자의 업무 샘플을 확보하거나 가정된 어려운 상황에 어떻게 그가 대응할지 묻는 것과 같은 보다 구조 화된 접근 방식은, 전통적인 면접보다, 거의 세 배의 이점으로 미래의 성공을 평가하는 데 훨씬 더 낫다."
+                    },
+                    {
+                        "문항 번호": "42",
+                        "문제 제목": "밑줄 친 (a) ~ (e) 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+                        "문제 내용": "We have biases that support our biases! If we’re partial to one option ―perhaps because it’s more memorable, or framed to minimize loss, or seemingly consistent with a promising pattern ―we tend to search for information that will (a) justify choosing that option. On the one hand, it’s sensible to make choices that we can defend with data and a list of reasons. On the other hand, if we’re not careful, we’re (b) likely to conduct an imbalanced analysis, falling prey to a cluster of errors collectively known as “confirmation biases.” For example, nearly all companies include classic “tell me about yourself” job interviews as part of the hiring process, and many rely on these interviews alone to evaluate applicants. But it turns out that traditional interviews are actually one of the (c) least useful tools for predicting an employee’s future success. This is because interviewers often subconsciously make up their minds about interviewees based on their first few moments of interaction and spend the rest of the interview cherry­picking evidence and phrasing their questions to (d) confirm that initial impression: “I see here you left a good position at your previous job. You must be pretty ambitious, right?” versus “You must not have been very committed, huh?” This means that interviewers can be prone to (e) noticing significant information that would clearly indicate whether this candidate was actually the best person to hire. More structured approaches, like obtaining samples of a candidate’s work or asking how he would respond to difficult hypothetical situations, are dramatically better at assessing future success, with a nearly threefold advantage over traditional interviews.",
+                        "문제 선지": {
+                            "1번": "(a)",
+                            "2번": "(b)",
+                            "3번": "(c)",
+                            "4번": "(d)",
+                            "5번": "(e)"
+                        },
+                        "문항 정답": "⑤",
+                        "오답률": "",
+                        "배점": "3점",
+                        "출제의도": "1지문 2문항(문맥상 적절한 어휘 파악하기)",
+                        "해설": "우리는 우리의 편견을 뒷받침하는 편견을 가진다! 만약 우리가 한 가지 옵션에 편향된다면 ―그것이 아마도 더 잘 기억할만 하거나, 손실을 최소화하기 위해 짜맞춰 졌거나, 혹은 유망한 패턴과 일치하는 것처럼 보이기 때문에 ― 우리는 그 옵션을 선택한 것을 정당화할 정보를 찾는 경향이 있다. 한편으로는, 데이터와 이유들의 목록으로 방어할 수 있는 선택을 하는 것이 현명하다. 반면에, 만약 우리가 주의를 기울이지 않으면, 우리는 불균형한 분석을 수행할 가능성이 있어서, 총체적으로 “확증편향”으로 알려져 있는 오류 덩어리의 희생양이 된다. 예를 들어, 거의 모든 기업이 채용 과정의 일부로 전통적인 “자기소개” 취업 면접을 실시하며, 많은 기업이 지원자를 평가하기 위해서 이러한 면접에만 의존한다. 하지만 전통적인 면접은 실제로 직원의 미래 성공을 예측하는 데 가장 유용하지 않은 도구 중 하나라는 것으로판명된다. 이것은 면접관들이 종종 잠재의식적으로 처음 몇 순간의 상호작용을 바탕으로 면접 대상자에 대한 결정을 내리고, 그 첫인상을 확인하기 위해 증거를 고르고 질문을 만드는 데 면접의 나머지 시간을 보내기 때문이 다: “당신은 이전 직장에서 좋은 직책을 두고 나오신 게 보이네요. 틀림없이 야망이 꽤 크시겠어요, 그렇죠?” 대 “당신은 그다지 헌신적이지 않았음에 틀림없네요, 그렇 죠?” 이것은 면접관이 이 지원자가 실제로 채용하기에 가장 좋은 사람인지 여부를 명확하게 보여줄 수 있는 중요한 정보를 알아차리기(→간과하기) 쉽다는 것을 의미한다. 지원자의 업무 샘플을 확보하거나 가정된 어려운 상황에 어떻게 그가 대응할지 묻는 것과 같은 보다 구조 화된 접근 방식은, 전통적인 면접보다, 거의 세 배의 이점으로 미래의 성공을 평가하는 데 훨씬 더 낫다."
+                    },
+                    {
+                        "문항 번호": "43",
+                        "문제 제목": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+                        "문제 내용": "(A) On Saturday morning, Todd and his 5­year­old daughter Ava walked out of the store with the groceries they had just purchased. As they pushed their grocery cart through the parking lot, they saw a red car pulling into the space next to their pick­up truck. A young man named Greg was driving. “That’s a cool car,” Ava said to her dad. (a) He agreed and looked at Greg, who finished parking and opened his door.",
+                        "문제 선지": {
+                            "1번": "(B) - (D) - (C)",
+                            "2번": "(C) - (B) - (D)",
+                            "3번": "(C) - (D) - (B)",
+                            "4번": "(D) - (B) - (C)",
+                            "5번": "(D) - (C) - (B)"
+                        },
+                        "문항 정답": "②",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "1지문 3문항(세부 내용 파악하기)",
+                        "해설": "(A) 토요일 아침에, Todd와 그의 다섯 살짜리 딸 Ava는 그들이 방금 구입한 식료품을 가지고 가게에서 걸어 나왔다. 그들이 주차장에서 식료품 카트를 밀면서 갈 때, 그들은 빨간 차 한 대가 그들의 픽업 트럭 옆 공간으로 들어오는 것을 보았다. Greg라는 이름의 한 젊은 남자가 운전을 하고 있었다. “저것은 멋진 차네 요.”라고 Ava가 그녀의 아빠에게 말했다. 그는 동의했 고 Greg를 보았는데, 그는 주차를 마치고 그의 문을 열 었다. (C) Todd가 그의 식료품을 싣는 것을 끝냈을 때, Greg의 문은 열린 채로 있었다. Todd는 Greg가 그의 차에서 내리지 않은 것을 알아차렸다. 그러나 그는 그 의 차에서 무엇인가를 꺼내고 있었다. 그는 그의 문 옆 바닥에 금속 프레임을 두었다. 운전석에 머무른 채, 그 는 무엇인가 다른 것을 잡기 위해 그의 차 안 뒤쪽으로 손을 뻗었다. Todd는 그가 무엇을 하고 있는지를 깨닫 고 그가 그를 도와야할지를 생각했다. 잠시 후, 그는 Greg에게 다가가기로 결심했다. (B) 그때쯤, Greg는 이미 그의 차에서 얇은 바퀴 하 나를 꺼내었고 그것을 프레임에 끼웠다. 그가 고개를 들어 그의 근처에 서 있는 Todd를 보았을 때 그는 이 제 두 번째 바퀴를 꺼내는 중이었다. Todd는 “안녕하세 요! 주말 잘 보내세요!”라고 말했다. Greg는 약간 놀란 것처럼 보였지만, 그에게도 좋은 주말을 보내라고 답했 다. 그러자 Greg는 “내가 독립성을 가질 수 있게 해줘 서 고맙습니다.”라고 덧붙였다. “물론이죠.”라고 Todd가 말했다. (D) Todd와 Ava가 그들의 트럭에 올라탄 후에, Ava 는 호기심이 생겼다. 그래서 그녀는 왜 그가 그 남자에 게 휠체어에 대해 도움을 제공하지 않았는지를 물었다. Todd는 “왜 너는 내 도움 없이 너의 이를 닦으려고 고 집하니?”라고 말했다. 그녀는 “왜냐하면 제가 어떻게 하 는지를 알기 때문이죠!”라고 답했다. 그는 “그리고 그 남자는 그의 휠체어를 어떻게 조립하는지 알고 있어.”라 고 말했다. Ava는 때때로 누군가를 돕는 가장 좋은 방 법은 전혀 도와주지 않는 것임을 이해했다."
+                    },
+                    {
+                        "문항 번호": "44",
+                        "문제 제목": "밑줄 친 (a) ～ (e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+                        "문제 내용": "(A) On Saturday morning, Todd and his 5­year­old daughter Ava walked out of the store with the groceries they had just purchased. As they pushed their grocery cart through the parking lot, they saw a red car pulling into the space next to their pick­up truck. A young man named Greg was driving. “That’s a cool car,” Ava said to her dad. (a) He agreed and looked at Greg, who finished parking and opened his door.",
+                        "문제 선지": {
+                            "1번": "(a)",
+                            "2번": "(b)",
+                            "3번": "(c)",
+                            "4번": "(d)",
+                            "5번": "(e)"
+                        },
+                        "문항 정답": "③",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "1지문 3문항(세부 내용 파악하기)",
+                        "해설": "(A) 토요일 아침에, Todd와 그의 다섯 살짜리 딸 Ava는 그들이 방금 구입한 식료품을 가지고 가게에서 걸어 나왔다. 그들이 주차장에서 식료품 카트를 밀면서 갈 때, 그들은 빨간 차 한 대가 그들의 픽업 트럭 옆 공간으로 들어오는 것을 보았다. Greg라는 이름의 한 젊은 남자가 운전을 하고 있었다. “저것은 멋진 차네 요.”라고 Ava가 그녀의 아빠에게 말했다. 그는 동의했 고 Greg를 보았는데, 그는 주차를 마치고 그의 문을 열 었다. (C) Todd가 그의 식료품을 싣는 것을 끝냈을 때, Greg의 문은 열린 채로 있었다. Todd는 Greg가 그의 차에서 내리지 않은 것을 알아차렸다. 그러나 그는 그 의 차에서 무엇인가를 꺼내고 있었다. 그는 그의 문 옆 바닥에 금속 프레임을 두었다. 운전석에 머무른 채, 그 는 무엇인가 다른 것을 잡기 위해 그의 차 안 뒤쪽으로 손을 뻗었다. Todd는 그가 무엇을 하고 있는지를 깨닫 고 그가 그를 도와야할지를 생각했다. 잠시 후, 그는 Greg에게 다가가기로 결심했다. (B) 그때쯤, Greg는 이미 그의 차에서 얇은 바퀴 하 나를 꺼내었고 그것을 프레임에 끼웠다. 그가 고개를 들어 그의 근처에 서 있는 Todd를 보았을 때 그는 이 제 두 번째 바퀴를 꺼내는 중이었다. Todd는 “안녕하세 요! 주말 잘 보내세요!”라고 말했다. Greg는 약간 놀란 것처럼 보였지만, 그에게도 좋은 주말을 보내라고 답했 다. 그러자 Greg는 “내가 독립성을 가질 수 있게 해줘 서 고맙습니다.”라고 덧붙였다. “물론이죠.”라고 Todd가 말했다. (D) Todd와 Ava가 그들의 트럭에 올라탄 후에, Ava 는 호기심이 생겼다. 그래서 그녀는 왜 그가 그 남자에 게 휠체어에 대해 도움을 제공하지 않았는지를 물었다. Todd는 “왜 너는 내 도움 없이 너의 이를 닦으려고 고 집하니?”라고 말했다. 그녀는 “왜냐하면 제가 어떻게 하 는지를 알기 때문이죠!”라고 답했다. 그는 “그리고 그 남자는 그의 휠체어를 어떻게 조립하는지 알고 있어.”라 고 말했다. Ava는 때때로 누군가를 돕는 가장 좋은 방 법은 전혀 도와주지 않는 것임을 이해했다."
+                    },
+                    {
+                        "문항 번호": "45",
+                        "문제 제목": "윗글에 관한 내용으로 적절하지 않은 것은?",
+                        "문제 내용": "(A) On Saturday morning, Todd and his 5­year­old daughter Ava walked out of the store with the groceries they had just purchased. As they pushed their grocery cart through the parking lot, they saw a red car pulling into the space next to their pick­up truck. A young man named Greg was driving. “That’s a cool car,” Ava said to her dad. (a) He agreed and looked at Greg, who finished parking and opened his door.",
+                        "문제 선지": {
+                            "1번": "Ava는 차가 멋지다고 말했다",
+                            "2번": "Greg는 얇은 바퀴를 프레임에 끼웠다.",
+                            "3번": "Greg는 휠체어를 꺼내준 것에 감사하다고 말했다",
+                            "4번": "Todd는 Greg가 차에서 내리지 않은 것을 알아차렸다.",
+                            "5번": "Ava는 트럭에 오른 후 호기심이 생겼다."
+                        },
+                        "문항 정답": "③",
+                        "오답률": "",
+                        "배점": "",
+                        "출제의도": "1지문 3문항(세부 내용 파악하기)",
+                        "해설": "(A) 토요일 아침에, Todd와 그의 다섯 살짜리 딸 Ava는 그들이 방금 구입한 식료품을 가지고 가게에서 걸어 나왔다. 그들이 주차장에서 식료품 카트를 밀면서 갈 때, 그들은 빨간 차 한 대가 그들의 픽업 트럭 옆 공간으로 들어오는 것을 보았다. Greg라는 이름의 한 젊은 남자가 운전을 하고 있었다. “저것은 멋진 차네 요.”라고 Ava가 그녀의 아빠에게 말했다. 그는 동의했 고 Greg를 보았는데, 그는 주차를 마치고 그의 문을 열 었다. (C) Todd가 그의 식료품을 싣는 것을 끝냈을 때, Greg의 문은 열린 채로 있었다. Todd는 Greg가 그의 차에서 내리지 않은 것을 알아차렸다. 그러나 그는 그 의 차에서 무엇인가를 꺼내고 있었다. 그는 그의 문 옆 바닥에 금속 프레임을 두었다. 운전석에 머무른 채, 그 는 무엇인가 다른 것을 잡기 위해 그의 차 안 뒤쪽으로 손을 뻗었다. Todd는 그가 무엇을 하고 있는지를 깨닫 고 그가 그를 도와야할지를 생각했다. 잠시 후, 그는 Greg에게 다가가기로 결심했다. (B) 그때쯤, Greg는 이미 그의 차에서 얇은 바퀴 하 나를 꺼내었고 그것을 프레임에 끼웠다. 그가 고개를 들어 그의 근처에 서 있는 Todd를 보았을 때 그는 이 제 두 번째 바퀴를 꺼내는 중이었다. Todd는 “안녕하세 요! 주말 잘 보내세요!”라고 말했다. Greg는 약간 놀란 것처럼 보였지만, 그에게도 좋은 주말을 보내라고 답했 다. 그러자 Greg는 “내가 독립성을 가질 수 있게 해줘 서 고맙습니다.”라고 덧붙였다. “물론이죠.”라고 Todd가 말했다. (D) Todd와 Ava가 그들의 트럭에 올라탄 후에, Ava 는 호기심이 생겼다. 그래서 그녀는 왜 그가 그 남자에 게 휠체어에 대해 도움을 제공하지 않았는지를 물었다. Todd는 “왜 너는 내 도움 없이 너의 이를 닦으려고 고 집하니?”라고 말했다. 그녀는 “왜냐하면 제가 어떻게 하 는지를 알기 때문이죠!”라고 답했다. 그는 “그리고 그 남자는 그의 휠체어를 어떻게 조립하는지 알고 있어.”라 고 말했다. Ava는 때때로 누군가를 돕는 가장 좋은 방 법은 전혀 도와주지 않는 것임을 이해했다."
                     }
+
+
+
+
+
+
+
+                    
                 ]
             }
         ]
