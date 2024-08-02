@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const 최근검색어버튼 = document.getElementById('recentSearchButton');
     const 단어자동완성 = document.getElementById('autocompleteResults');
     const 테마토글버튼 = document.getElementById('themeToggleButton');
-    const UNSPLASH_ACCESS_KEY = 'c6fLotA-bRLbvx-xrNBgB6WRPYl8gfthXPl3Z8tEugk';
+    const UNSPLASH_KEY = 'c6fLotA-bRLbvx-xrNBgB6WRPYl8gfthXPl3Z8tEugk';
     
     const recentSearches = JSON.parse(localStorage.getItem('최근검색어')) || [];
 
@@ -255,7 +255,6 @@ document.addEventListener('DOMContentLoaded', () => {
         `;
         토글버튼이벤트추가();
     
-        // 다운로드 버튼 클릭 시 이미지로 변환
         document.getElementById('downloadImageButton').addEventListener('click', () => {
             이미지로변환하고다운로드(문제, 검색어);
         });
@@ -277,7 +276,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function 이미지요청(단어) {
-        const apiUrl = `https://api.unsplash.com/search/photos?query=${단어}&client_id=${UNSPLASH_ACCESS_KEY}`;
+        const apiUrl = `https://api.unsplash.com/search/photos?query=${단어}&client_id=${UNSPLASH_KEY}`;
         return fetch(apiUrl)
             .then(response => response.json())
             .then(data => data.results.length > 0 ? data.results[0].urls.small : null);
@@ -292,48 +291,166 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     function 이미지로변환하고다운로드(문제, 검색어) {
-        // 문제 결과를 렌더링할 임시 div 생성
+        // 숨기기 요소를 일시적으로 표시합니다.
+        function showHiddenElements() {
+            const elements = document.querySelectorAll('.toggle-text');
+            elements.forEach(el => el.style.display = 'block');
+        }
+    
+        // 숨기기 요소를 다시 숨깁니다.
+        function hideElements() {
+            const elements = document.querySelectorAll('.toggle-text');
+            elements.forEach(el => el.style.display = 'none');
+        }
+    
+        // 임시 Div를 생성하여 스타일 및 내용을 추가합니다.
         const 임시Div = document.createElement('div');
-        임시Div.style.position = 'absolute';
-        임시Div.style.left = '-9999px'; // 화면에서 숨기기
+        임시Div.style.position = 'relative';
+        임시Div.style.width = '1080px';
+        임시Div.style.height = '1350px';
+        임시Div.style.fontFamily = 'Arial, sans-serif';
+        임시Div.style.backgroundColor = '#f9f9f9';
+        임시Div.style.borderRadius = '15px';
+        임시Div.style.padding = '20px';
+        임시Div.style.boxSizing = 'border-box';
+        임시Div.style.zIndex = '9999';
+        임시Div.style.overflow = 'hidden';
         document.body.appendChild(임시Div);
     
-        // 문제를 임시 div에 렌더링
+        // 임시 Div에 내용 및 스타일 추가
         임시Div.innerHTML = `
-            <div class="result-item">
-                <div class="header">
-                    <p>${문제.연도}년 ${문제.학년} ${문제.날짜}</p>
-                </div>
-                <div class="problem">
-                    <p class="problem-title">${문제.문항번호}번, ${문제.제목}  |  배점: ${문제.배점}  |  오답률: ${문제.오답률}</p>
-                    <p class="problem-content">${강조(문제.내용, 검색어)}</p>
-                </div>
-                <div class="problem-options">
-                    <strong>문제 선지:</strong>
-                    ${Object.entries(문제.선택지).map(([key, value]) => `<p class="option">${key}: ${강조(value, 검색어)}</p>`).join('')}
-                </div>
-                <button class="toggle-button">정답 및 해설 보기</button>
-                <div class="toggle-text" style="display: none;">
-                    <p><strong>정답:</strong> ${문제.정답}</p>
-                    <p><strong>출제의도:</strong> ${문제.출제의도}</p>
-                    <p><strong>해설:</strong> ${문제.해설}</p>
-                </div>
+        <style>
+        .result-item {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            border-radius: 15px;
+            background-color: #ffffff;
+            position: relative;
+            padding: 20px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            box-sizing: border-box;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header p {
+            font-size: 28px;
+            font-weight: bold;
+            color: #333;
+            margin: 0;
+        }
+        .problem {
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 12px;
+            background-color: #f0f0f0;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+        .problem-title {
+            font-size: 22px;
+            font-weight: bold;
+            color: #333;
+            margin: 0;
+            text-align: center;
+        }
+        .problem-content {
+            font-size: 18px;
+            color: #666;
+            text-align: left;
+            margin: 10px 0;
+        }
+        .problem-options {
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 12px;
+            background-color: #f0f0f0;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+        .problem-options strong {
+            font-size: 18px;
+            color: #444;
+            display: block;
+            margin-bottom: 10px;
+        }
+        .option {
+            font-size: 18px;
+            color: #555;
+            margin-bottom: 8px;
+        }
+        .toggle-text {
+            padding: 20px;
+            border-radius: 12px;
+            background-color: #f9f9f9;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        .toggle-text p {
+            font-size: 18px;
+            color: #444;
+            margin: 5px 0;
+        }
+        .watermark {
+            position: absolute;
+            bottom: 30px;
+            right: 20px;
+            font-size: 40px;
+            color: rgba(0, 0, 0, 0.1);
+            font-weight: bold;
+            pointer-events: none;  /* 클릭 방지 */
+        }
+        </style>
+        <div class="result-item">
+            <div class="header">
+                <p>${문제.연도}년 ${문제.학년} ${문제.날짜}</p>
             </div>
+            <div class="problem">
+                <p class="problem-title">${문제.문항번호}번, ${문제.제목} | 배점: ${문제.배점} | 오답률: ${문제.오답률}</p>
+                <p class="problem-content">${강조(문제.내용, 검색어)}</p>
+            </div>
+            <div class="problem-options">
+                <strong>문제 선지:</strong>
+                ${Object.entries(문제.선택지).map(([key, value]) => `<p class="option">${key}: ${강조(value, 검색어)}</p>`).join('')}
+            </div>
+            <div class="toggle-text">
+                <p><strong>정답:</strong> ${문제.정답}</p>
+                <p><strong>출제의도:</strong> ${문제.출제의도}</p>
+                <p><strong>해설:</strong> ${문제.해설}</p>
+            </div>
+            <div class="watermark">문제검색기</div>
+        </div>
         `;
     
-        // html2canvas를 사용하여 이미지로 변환
-        html2canvas(임시Div).then(canvas => {
-            // 이미지 URL 생성
+        // 숨기기 요소를 일시적으로 표시합니다.
+        showHiddenElements();
+    
+        html2canvas(임시Div, {
+            scale: 2,
+            useCORS: true,
+            allowTaint: true,
+            backgroundColor: '#f9f9f9'
+        }).then(canvas => {
             const 이미지URL = canvas.toDataURL('image/png');
-            
-            // 다운로드 링크 생성
             const 링크 = document.createElement('a');
             링크.href = 이미지URL;
             링크.download = '문제_상세정보.png';
             링크.click();
     
-            // 임시 div 제거
-            document.body.removeChild(임시Div);
+            alert('이미지가 다운로드되었습니다. 공유하려면 파일을 선택하고 공유 옵션을 사용하세요.');
+    
+            document.body.removeChild(임시Div); // 작업 후 임시 Div를 제거합니다.
+    
+            // 다시 숨기기
+            hideElements();
+        }).catch(error => {
+            console.error('이미지 변환 중 오류 발생:', error);
+            alert('이미지 변환 중 오류가 발생했습니다.');
+            document.body.removeChild(임시Div); // 오류 발생 시에도 임시 Div를 제거합니다.
+    
+            // 다시 숨기기
+            hideElements();
         });
     }
 });
