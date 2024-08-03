@@ -291,19 +291,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     function 이미지로변환하고다운로드(문제, 검색어) {
-        // 숨기기 요소를 일시적으로 표시합니다.
+        
         function showHiddenElements() {
             const elements = document.querySelectorAll('.toggle-text');
             elements.forEach(el => el.style.display = 'block');
         }
     
-        // 숨기기 요소를 다시 숨깁니다.
+        
         function hideElements() {
             const elements = document.querySelectorAll('.toggle-text');
             elements.forEach(el => el.style.display = 'none');
         }
     
-        // 임시 Div를 생성하여 스타일 및 내용을 추가합니다.
+        
         const 임시Div = document.createElement('div');
         임시Div.style.position = 'relative';
         임시Div.style.width = '1080px';
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', () => {
         임시Div.style.overflow = 'hidden';
         document.body.appendChild(임시Div);
     
-        // 임시 Div에 내용 및 스타일 추가
+      
         임시Div.innerHTML = `
         <style>
         .result-item {
@@ -399,7 +399,7 @@ document.addEventListener('DOMContentLoaded', () => {
             font-size: 40px;
             color: rgba(0, 0, 0, 0.1);
             font-weight: bold;
-            pointer-events: none;  /* 클릭 방지 */
+            pointer-events: none;
         }
         </style>
         <div class="result-item">
@@ -423,7 +423,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
         `;
     
-        // 숨기기 요소를 일시적으로 표시합니다.
+       
         showHiddenElements();
     
         html2canvas(임시Div, {
@@ -438,18 +438,18 @@ document.addEventListener('DOMContentLoaded', () => {
             링크.download = '문제_상세정보.png';
             링크.click();
     
-            alert('이미지가 다운로드되었습니다. 공유하려면 파일을 선택하고 공유 옵션을 사용하세요.');
+            alert('이미지가 다운로드되었습니다.');
     
-            document.body.removeChild(임시Div); // 작업 후 임시 Div를 제거합니다.
-    
-            // 다시 숨기기
+            document.body.removeChild(임시Div);
+   
+            
             hideElements();
         }).catch(error => {
             console.error('이미지 변환 중 오류 발생:', error);
             alert('이미지 변환 중 오류가 발생했습니다.');
-            document.body.removeChild(임시Div); // 오류 발생 시에도 임시 Div를 제거합니다.
+            document.body.removeChild(임시Div);
     
-            // 다시 숨기기
+     
             hideElements();
         });
     }
