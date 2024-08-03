@@ -455,7 +455,7 @@ function 요약결과보여주기(문제들, 검색어) {
         }
     });
 
-    // 페이지 초기 로드 시 테마 설정
+   
     if (localStorage.getItem('다크모드') === 'true') {
         document.body.classList.add('다크모드');
         테마토글버튼.querySelector('i').className = 'fas fa-moon';
@@ -469,10 +469,7 @@ function 요약결과보여주기(문제들, 검색어) {
         테마토글버튼.querySelector('i').className = icon;
     });
 
-    // Unsplash API 키 설정
-    const UNSPLASH_KEY = 'YOUR_UNSPLASH_ACCESS_KEY'; // Unsplash에서 발급받은 API 키를 여기에 추가하세요.
 
-    // 사진 가져오기 함수
     function 이미지요청하기(단어) {
         const apiUrl = `https://api.unsplash.com/search/photos?query=${단어}&client_id=${UNSPLASH_KEY}`;
         return fetch(apiUrl)
